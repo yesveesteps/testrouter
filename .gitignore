@@ -1,0 +1,8 @@
+#ignore all files, folders except router.js
+chatcat
+ChatCAT-Begin
+firstnodeapp
+node_modules
+qr-image
+helloNodeworld.js
+.idea
